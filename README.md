@@ -352,10 +352,8 @@ For type specifications of operations, please check out the table below:
 (> 1 #t)    ; Type Error: Expect 'number' but got 'boolean'.
 ```
 ## License
-105802015 
-資工三B
-陳昱瑋
-NCU CSIE
+##### Fordevoted
+NCU CSIE 105802015 陳昱瑋
 
 ## Conctact
 2100509fssh@gmail.com
