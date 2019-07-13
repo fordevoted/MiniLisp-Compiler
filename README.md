@@ -353,7 +353,7 @@ For type specifications of operations, please check out the table below:
 ```
 ## License
 ##### Fordevoted
-NCU CSIE 105802015 陳昱瑋
+NCU CSIE | 105802015 | 陳昱瑋
 
 ## Conctact
 2100509fssh@gmail.com
